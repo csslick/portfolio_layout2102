@@ -6,7 +6,7 @@
 /* PC에만 적용 */
 @media screen and (min-width: 768px) {
   .container {
-    width: 1200px;
+    width: 100%;
     margin: 0 auto;
     /* outline: 1px solid red; */
   }
